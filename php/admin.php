@@ -81,7 +81,7 @@
                             </div>
                             <div style="float:left;width:35%">
                                 <p style="font-size: 18px; width: 300px; height: 250px; float: left; margin-top: 20px;">Mockup of Widget<br><br>
-                                <img src="images/mockup.png"></p
+                                <img src="/wp-content/plugins/monitoring/images/mockup.png"></p
                             </div>
                         </div>
 
@@ -100,13 +100,13 @@ if (class_exists("MonitoringAdmin")) {
 // notice to ping users to come and configure plugin
 function monitoring_admin_notices() {
     echo "<div id='notice' class='updated fade'><p><h2>Social Media Monitoring is not configured yet. Please do it now.</h2>
-          <br/><a href='/wp-admin/admin.php?page=monitoring-menu-configuration'><img src='images/configure.png'></img></a>
+          <br/><a href='/wp-admin/admin.php?page=monitoring-menu-configuration'><img src='/wp-content/plugins/monitoring/images/configure.png'></img></a>
           </p></div>\n";
 }
 
 // admin panel
 function my_monitoring_menu() {
-    	add_menu_page( 'Configure Social Media Monitoring', 'Monitoring', 'manage_options', 'monitoring-menu-id', 'my_monitoring_options', 'images/icon.gif');
+    	add_menu_page( 'Configure Social Media Monitoring', 'Monitoring', 'manage_options', 'monitoring-menu-id', 'my_monitoring_options', '/wp-content/plugins/monitoring/images/favicon.png');
 	add_options_page( 'Configure Social Media Monitoring', 'Social Media Monitoring', 'manage_options', 'monitoring-menu-configuration', 'my_monitoring_options' );
 }
 
