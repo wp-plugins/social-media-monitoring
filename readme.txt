@@ -12,9 +12,10 @@ Social Media Monitoring: Show off how your brand name is talked about globally.
 
 == Description ==
 Show off how much your brand name is talked about globally as well as consumer sentiments. All you have to do is to provide a keyword and we start tracking mentions across the web - forums, blogs, Facebook, twitter etc.
+It's a lot more than just <a href="https://www.socialappshq.com">Social Media Monitoring</a> :-)
 
 = How it works = 
-On load, Plugin sends a request to SocialAppsHQ to start crawling the web for a given keyword. We will store the data on our servers and users will see this widget powered from the collected data. 
+On load, Plugin sends a request to <a href="https://www.socialappshq.com">SocialAppsHQ</a> to start crawling the web for a given keyword. We will store the data on our servers and users will see this widget powered from the collected data. 
 If an email is provided in your settings, you can contact us to create an account for free so that you can look at raw data as well as all kind of fancy analysis on top of it - it's a free service.
 
 == Installation ==
