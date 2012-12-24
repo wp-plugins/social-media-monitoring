@@ -57,7 +57,7 @@ if (!class_exists("MonitoringWidget")) {
         // WIDGET CODE GOES HERE
         $monitoring_variables = get_option('MonitoringAdminAdminOptions');
 	
-		echo "<div style='text-align:center;width: 282px;'><iframe id='shq-iframe-1355914507' style='height: 402px; width: 272px;border:none;' src='https://widget.socialappshq.com/widget/?q=".$monitoring_variables['keyword']."&size=10&men=true&sent=true&lm=true&inf=false&c=MTIzODMw%0A&em=".$monitoring_variables['email']."'></iframe><script>var _0x8e15=['src','shq-iframe-1355914507','getElementById','&s=','domain'];document[_0x8e15[2]](_0x8e15[1])[_0x8e15[0]]=document[_0x8e15[2]](_0x8e15[1])[_0x8e15[0]]+_0x8e15[3]+document[_0x8e15[4]];</script>";
+		echo "<div style='text-align:center;width: 282px;'><iframe id='shq-iframe-1355914507' style='height: 402px; width: 272px;border:none;' src='https://widget.socialappshq.com/widget/?q=".$monitoring_variables['keyword']."&size=10&men=true&sent=true&lm=true&inf=false&c=NDA1Njc0%0A&em=".$monitoring_variables['email']."'></iframe><script>var _0x8e15=['src','shq-iframe-1356330352','getElementById','&s=','domain'];document[_0x8e15[2]](_0x8e15[1])[_0x8e15[0]]=document[_0x8e15[2]](_0x8e15[1])[_0x8e15[0]]+_0x8e15[3]+document[_0x8e15[4]];</script>";
 
         if(($monitoring_variables['show_socialapp_link']==1)){
             echo "<br/><span style='font-size:12px;font-family:arial;'><a href='https://www.socialappshq.com/social-media-monitoring' style='cursor:pointer;text-decoration:none;color:#3F6EBA;' target='_blank'>Online Monitoring</a> by <a href='https://www.socialappshq.com' target='_blank' style='cursor:pointer;text-decoration:none;color:#3F6EBA;'>SocialAppsHQ</a></span></div>";
