@@ -14,8 +14,10 @@ Social Media Monitoring: Show off how your brand name is talked about globally.
 Show off how much your brand name is talked about globally as well as consumer sentiments. All you have to do is to provide a keyword and we start tracking mentions across the web - forums, blogs, Facebook, twitter etc.
 It's a lot more than just <a href="https://www.socialappshq.com">Social Media Monitoring</a> :-)
 
-= How it works = 
-On load, Plugin sends a request to <a href="https://www.socialappshq.com">SocialAppsHQ</a> to start crawling the web for a given keyword. We will store the data on our servers and users will see this widget powered from the collected data. 
+You can also show widget below every post by configuring keyword on a per post basis.
+
+= How it works =
+On load, Plugin sends a request to <a href="https://www.socialappshq.com">SocialAppsHQ</a> to start crawling the web for a given keyword. We will store the data on our servers and users will see this widget powered from the collected data.
 If an email is provided in your settings, you can contact us to create an account for free so that you can look at raw data as well as all kind of fancy analysis on top of it - it's a free service.
 
 == Installation ==
@@ -27,12 +29,13 @@ If an email is provided in your settings, you can contact us to create an accoun
 == Screenshots ==
 
 1. Configuration page
-2. How it looks in action
+2. How Sidebar widget looks
+3. Widget placement - sidebar or, bottom of post
 
 == Frequently Asked Questions ==
 
 = Is there lot more activity than this widget shows? =
-We limit all tracking done for keywords based on the pricing plan. For free users, we track upto 1,000 mentions on a rolling 30 days basis. Just sign up for a plan that suits your requirement! 
+We limit all tracking done for keywords based on the pricing plan. For free users, we track upto 1,000 mentions on a rolling 30 days basis. Just sign up for a plan that suits your requirement!
 
 = Can I deploy multiple widgets on my site? =
 Sure, just copy and paste the code and go for it! You may also change keyword for different pages.
@@ -49,4 +52,4 @@ Sure, just copy and paste the code and go for it! You may also change keyword fo
 
 == Upgrade Notice ==
 
-* First upload, so nothing as of yet
+* Major upgrade - color/font customization of widget, widget below post also showing now.
