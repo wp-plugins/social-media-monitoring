@@ -6,7 +6,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: social media monitoring, social media listening, listening & monitoring, facebook monitoring, twitter monitoring, blog monitoring
 Requires at least: 3.1
 Tested up to: 3.5
-Stable tag: 1.2
+Stable tag: 1.3
 
 Social Media Monitoring: Show off how your brand name is talked about globally.
 
@@ -41,6 +41,12 @@ We limit all tracking done for keywords based on the pricing plan. For free user
 Sure, just copy and paste the code and go for it! You may also change keyword for different pages.
 
 == Changelog ==
+
+= 1.3 = 
+
+* Made the dimensions flexible
+* Removed sentiment analysis and graph
+
 = 1.2 =
 
 * Configure look and feel of widget - color, font type, number of posts
